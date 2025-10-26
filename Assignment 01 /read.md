@@ -20,4 +20,7 @@ https://wokwi.com/projects/445889308284953601
  OLED VCC	    3V3  Power	
  OLED GND	    GND  Ground	
 
- 
+ #SCREENSHOTS : 
+
+#task a
+Assignment 01/(A) 01.png
