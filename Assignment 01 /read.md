@@ -7,7 +7,6 @@ https://wokwi.com/projects/445884287779897345
 https://wokwi.com/projects/445889308284953601
 
 # PIN MAP
- ESP32 Pin Mapping Table 
 
  Blue LED   	D2	 Output	
  Red LED	    D4	 Output	
