@@ -20,7 +20,7 @@ https://wokwi.com/projects/445889308284953601
  OLED VCC	    3V3  Power	
  OLED GND	    GND  Ground	
 
-#SCREENSHOTS : 
+# SCREENSHOTS : 
 
 #task a
 https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(A)%2001.png
