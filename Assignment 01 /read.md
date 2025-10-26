@@ -23,4 +23,17 @@ https://wokwi.com/projects/445889308284953601
  #SCREENSHOTS : 
 
 #task a
-Assignment 01/(A) 01.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(A)%2001.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(A)%2002%20one%20light.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(A)%2002%202nd%20light.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(A)%2003.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(A)%2004.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(A)%2005.png
+
+#task b 
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(B)%2001.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(B)%2002%20OFF.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(B)%2002.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(B)%2003.png
+https://github.com/Sabika-Batool-Zaidi/IOT-practical/blob/master/Assignment%2001/(B)%2004.png
+
